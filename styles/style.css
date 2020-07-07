@@ -17,6 +17,7 @@ p {
     }
     p {
         font-size: 1em;
+    }
 } 
 
 #main{
@@ -26,7 +27,7 @@ p {
     color: #121212;
 }
 #tribute-info {
-    padding-top: 50px;
+    padding-top: 70px;
     font-size: 20px;
     width: 70vw;
     margin: 0 auto;
